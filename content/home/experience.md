@@ -47,7 +47,7 @@ experience:
     location: Atlanta
     date_start: '2016-08-01'
     date_end: ''
-    description: Research and teaching 
+    description: Research and teaching on operations / innovation management. 
 
 design:
   columns: '2'
