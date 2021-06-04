@@ -30,8 +30,18 @@ abstract: A new design can be compared with its contemporaries or older designs.
   between similarities and differences in evaluating new designs.
 draft: false
 featured: true
+links:
+- name: Podcast
+  url: "https://pubsonline.informs.org/do/10.1287/orms.2021.01.26p"
 url_pdf: "https://pubsonline.informs.org/doi/full/10.1287/orsc.2021.1454"
-url_podcast: "https://pubsonline.informs.org/do/10.1287/orms.2021.01.26p"
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 tags:
   - Product Design
   - Mixed Methods
