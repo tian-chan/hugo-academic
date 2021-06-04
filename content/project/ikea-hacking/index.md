@@ -14,7 +14,7 @@ tags:
   - problem-solving
 external_link: '""'
 ---
-Check out [IKEA Hackers](https://www.ikeahackers.net/) if you’re in the mood for some fascinating ideas on how to “hack” your furniture pieces into something else! (Below is an image of a [hack ](https://www.ikeahackers.net/wp-content/uploads/2020/03/Kyrre-3.jpeg)to make nesting tables out of IKEA stools). Working on a paper to figure out how user-innovators generate hacks with novel functionalities - abstract below and [link](https://www.researchgate.net/publication/346530732_The_search_for_novel_product_uses_An_investigation_of_IKEA_hacks) to the working paper. 
+Check out [IKEA Hackers](https://www.ikeahackers.net/) if you’re in the mood for some fascinating ideas on how to “hack” your furniture pieces into something else! (Below is an image of a [hack ](https://www.ikeahackers.net/wp-content/uploads/2020/03/Kyrre-3.jpeg)to make nesting tables out of IKEA stools). Working on a paper to figure out how user-innovators generate hacks with novel functionalities - abstract of working paper below.
 
 ## Abstract
 
