@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: tian.chan@emory.edu
-phone: 404 727 7138
+# phone: 404 727 7138
 address:
   street: 1300 Clifton Road
   city: Atlanta
@@ -42,10 +42,10 @@ contact_links:
 #    icon_pack: fab
 #    name: DM Me
 #    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:tian.heong.chan?chat'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:tian.heong.chan?chat'
 #  - icon: keybase
 #    icon_pack: fab
 #    name: Chat on Keybase
