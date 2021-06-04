@@ -27,6 +27,17 @@ abstract: Maintenance service plans (MSPs) are contracts for the provision of
   operator—can improve performance and reduce costs.
 draft: false
 featured: true
+links:
+- name: Paper
+  url: https://pubsonline.informs.org/doi/10.1287/mnsc.2017.2993
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2494265
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 tags:
   - ServiceDesign
   - Maintenance
