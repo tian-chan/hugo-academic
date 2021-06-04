@@ -29,7 +29,9 @@ abstract: A new design can be compared with its contemporaries or older designs.
   innovation by offering a dynamic perspective that helps resolve the tension
   between similarities and differences in evaluating new designs.
 draft: false
-featured: false
+featured: true
+url_pdf: "https://pubsonline.informs.org/doi/full/10.1287/orsc.2021.1454"
+url_podcast: "https://pubsonline.informs.org/do/10.1287/orms.2021.01.26p"
 tags:
   - Product Design
   - Mixed Methods
@@ -45,5 +47,5 @@ summary: "Comparative processes are crucial to how consumers evaluate design.
   designs to understand its functionalities, but also lean on dis-similarities
   to other contemporary designs to seek distinctiveness and express their
   individuality. "
-date: 2021-06-04T15:00:28.666Z
+date: 2021-01-01T15:00:28.666Z
 ---
