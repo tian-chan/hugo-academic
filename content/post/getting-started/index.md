@@ -2,11 +2,11 @@
 summary: ""
 draft: false
 authors: []
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 title: Interesting section from the book "Sapiens" by Yuval Noah Harari.
 subtitle: One of the first discovered writings by humans was about
   student/teacher relationship...
-date: 2020-12-13T00:00:00Z
+date: 2020-12-13T00:00:00.000Z
 featured: false
 tags:
   - Teaching
