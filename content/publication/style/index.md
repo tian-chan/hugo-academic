@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: Products combine function and form. This paper focuses on product form. We combine state-of-the-art clustering techniques with experimental validation to identify styles (groupings of new product designs of similar form) among the more than 350,000 U.S. design patents granted from 1977 through 2010. Thus we compile, for the first time, a rich data set of styles that can serve as an empirical platform for a rigorous study of the role played by product form in new product development. Building on this platform, we analyze the determinants of “style turbulence”—the year-to-year unpredictability of changes in a style’s prevalence. We find that (i) style turbulence follows a U-shaped relationship with respect to function turbulence (the turbulence of product functions associated with a given style), and (ii) style turbulence increases over time. We discuss the implications of these findings for managing design in new product development.
 slides: ""
 url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2428744"
 publication_types:
@@ -17,7 +17,6 @@ summary: >
   study other questions (see e.g., "Anchored Differentiation"). 
 url_paper: "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2653"
 url_dataset: "https://drive.google.com/open?id=1s6iJnyxDbWrNXFv0RCjiLY3ubK2eIxZ7"
-url_project: ""
 author_notes: []
 publication_short: ""
 url_source: ""
