@@ -14,4 +14,4 @@ I work closely with my colleagues [Wenjun Gu](https://goizueta.emory.edu/faculty
 Sharing some resources that have proved useful to me:
 
 * <http://iemba.org/> - Wen's website for teaching analytics online, and interactively
-* The curve - a useful perspective from Professor S.A. Miller
+* The [dreaded curve](https://academics.hamilton.edu/biology/smiller/curve.html) - a useful perspective from Professor S.A. Miller
