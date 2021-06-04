@@ -26,7 +26,10 @@ featured: true
 date: 2018-03-01T00:00:00.000Z
 url_slides: ""
 title: "On Styles in Product Design: An analysis of US design patents"
-tags: []
+tags:
+  - Product Design
+  - Style
+  - Innovation
 projects: []
 image:
   caption: ""
