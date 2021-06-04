@@ -10,9 +10,9 @@ tags:
   - product design
   - user innovation
   - problem-solving
-external_link: "#"
+external_link: ""
 image:
-  filename: https://www.ikeahackers.net/wp-content/uploads/2020/03/Kyrre-3.jpeg
+  filename: https://www.ikeahackers.net/wp-content/uploads/2020/03/Kyrre-3.jpeg 
   focal_point: Smart
   preview_only: false
 ---
