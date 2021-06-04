@@ -12,7 +12,7 @@ tags:
   - product design
   - user innovation
   - problem-solving
-external_link: "#/project/ikea-hacking/"
+external_link: ""
 ---
 Check out [IKEA Hackers](https://www.ikeahackers.net/) if you’re in the mood for some fascinating ideas on how to “hack” your furniture pieces into something else! (Below is an image of a [hack](https://www.ikeahackers.net/2019/11/diy-cat-house-ikea.html) to create a cat house). Working on a paper to figure out how user-innovators generate hacks with novel functionalities - abstract of working paper below.
 
