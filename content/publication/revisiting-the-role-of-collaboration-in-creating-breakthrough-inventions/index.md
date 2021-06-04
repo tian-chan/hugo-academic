@@ -26,7 +26,7 @@ summary: >-2
     advantages the lone inventor. We also show that lone inventors working on
     non-decomposable inventions and who have collaborated widely in the past
     outperforms even teams. 
-date: 2021-06-04T14:58:11.543Z
+date: 2020-04-30T14:58:11.543Z
 ---
 ## Pseudocode for measuring "decomposability" of a (utility) patent
 
