@@ -29,7 +29,7 @@ title: "On Styles in Product Design: An analysis of US design patents"
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://www.freepatentsonline.com/D517789.pdf)"
+  caption: ""
   focal_point: ""
   preview_only: true
   filename: featured.jpg
