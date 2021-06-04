@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2794958_code865831.pdf?abstractid=2428744&mirid=1"
+url_pdf: ""
 publication_types:
   - "2"
 authors:
@@ -15,11 +15,12 @@ summary: >
   time, and (ii) technological turbulence (unpredictable changes in technology)
   have a U-shaped relationship to style turbulence.  I use this data platform to
   study other questions (see e.g., "Anchored Differentiation"). 
-url_dataset: ""
+url_paper: "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2653"
+url_dataset: "https://drive.google.com/open?id=1s6iJnyxDbWrNXFv0RCjiLY3ubK2eIxZ7"
 url_project: ""
 author_notes: []
 publication_short: ""
-url_source: "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2653"
+url_source: ""
 url_video: ""
 publication: In Management Science
 featured: true
