@@ -31,6 +31,8 @@ content:
     tag: Product Design
   - name: Innovation in Operations
     tag: Innovation in Operations
+  - name: Teaching
+    tag: Teaching
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
