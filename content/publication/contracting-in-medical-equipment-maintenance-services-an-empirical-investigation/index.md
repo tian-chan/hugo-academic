@@ -39,9 +39,9 @@ url_slides: ''
 url_source: ''
 url_video: ''
 tags:
-  - ServiceDesign
+  - Service Design
   - Maintenance
-  - Customer-SupplierCollaboration
+  - Collaboration
 image:
   filename: featured
   focal_point: Smart
