@@ -3,7 +3,7 @@ title: Process and Systems Management
 date: 2021-06-04T18:17:19.041Z
 draft: false
 featured: false
-external_link: '""'
+external_link: ''
 image:
   filename: featured
   focal_point: Smart
