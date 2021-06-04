@@ -23,7 +23,7 @@ url_source: ""
 url_video: ""
 publication: In Management Science
 featured: true
-date: 2013-07-01T00:00:00.000Z
+date: 2018-03-01T00:00:00.000Z
 url_slides: ""
 title: "On Styles in Product Design: An analysis of US design patents"
 tags: []
@@ -33,7 +33,7 @@ image:
   focal_point: ""
   preview_only: true
   filename: featured.jpg
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2018-03-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
