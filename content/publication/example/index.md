@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: ""
+url_pdf: "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2794958_code865831.pdf?abstractid=2428744&mirid=1"
 publication_types:
   - "2"
 authors:
@@ -19,7 +19,7 @@ url_dataset: ""
 url_project: ""
 author_notes: []
 publication_short: ""
-url_source: ""
+url_source: "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2653"
 url_video: ""
 publication: In Management Science
 featured: true
