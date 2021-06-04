@@ -4,6 +4,7 @@ date: 2021-05-04T18:17:19.041Z
 draft: false
 featured: false
 external_link: ''
+tags: Teaching
 image:
   filename: featured
   focal_point: Smart
