@@ -32,7 +32,7 @@ projects:
 image:
   caption: "Image credit: [**Unsplash**](https://www.freepatentsonline.com/D517789.pdf)"
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.jpg
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
