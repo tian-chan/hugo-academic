@@ -10,7 +10,7 @@ tags:
   - product design
   - user innovation
   - problem-solving
-external_link: https://www.researchgate.net/publication/346530732_The_search_for_novel_product_uses_An_investigation_of_IKEA_hacks
+external_link: "#"
 image:
   filename: https://www.ikeahackers.net/wp-content/uploads/2020/03/Kyrre-3.jpeg
   focal_point: Smart
