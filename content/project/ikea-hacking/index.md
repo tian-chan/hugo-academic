@@ -1,6 +1,5 @@
 ---
 draft: false
-url_pdf: https://www.researchgate.net/publication/346530732_The_search_for_novel_product_uses_An_investigation_of_IKEA_hacks
 title: IKEA Hacking
 date: 2021-06-04T17:03:17.196Z
 summary: How user-innovators generate novel product functions through hacking
@@ -14,7 +13,7 @@ tags:
   - Problem-solving
 external_link: ""
 ---
-Check out [IKEA Hackers](https://www.ikeahackers.net/) if you’re in the mood for some fascinating ideas on how to “hack” your furniture pieces into something else! (Below is an image of a [hack](https://www.ikeahackers.net/2019/11/diy-cat-house-ikea.html) to create a cat house). Working on a paper to figure out how user-innovators generate hacks with novel functionalities - abstract of working paper below.
+Check out [IKEA Hackers](https://www.ikeahackers.net/) if you’re in the mood for some fascinating ideas on how to “hack” your furniture pieces into something else! (Below is an image of a [hack](https://www.ikeahackers.net/2019/11/diy-cat-house-ikea.html) to create a cat house). Working on a paper to figure out how user-innovators generate hacks with novel functionalities - abstract of [working paper](https://www.researchgate.net/publication/346530732_The_search_for_novel_product_uses_An_investigation_of_IKEA_hacks) below. 
 
 ![](https://www.ikeahackers.net/wp-content/uploads/2019/11/cat-hut-5.jpg?ezimgfmt=ng:webp/ngcb1 "Example hack of a step stool (image from IKEAhackers.net)")
 
