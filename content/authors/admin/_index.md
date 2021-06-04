@@ -1,6 +1,6 @@
 ---
 role: Assistant Professor (Information Systems and Operations Management)
-avatar_filename: 0090903-16ab-f442-x3-copy.jpg
+avatar_filename: assets/media/0090903-16ab-f442-x3-copy.jpg
 bio: My research interest lies in the areas of operations and innovation management.
 interests:
   - Product Design
