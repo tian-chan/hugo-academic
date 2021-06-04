@@ -1,5 +1,6 @@
 ---
 title: Business method innovation
+summary: Generating value from innovating on the business operations supporting product sales
 date: 2021-06-04T17:45:38.209Z
 draft: false
 featured: false
