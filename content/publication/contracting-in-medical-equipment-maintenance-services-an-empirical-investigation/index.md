@@ -39,5 +39,5 @@ summary: Using data from a major medical body scanner manufacturer, we show that
   free-rider problems impose a heavy cost in the maintenance of medical body
   scanners, and that pay per service maintenance plans can improve performance
   and reduce costs.
-date: 2021-06-04T14:53:01.844Z
+date: 2019-03-01T14:53:01.844Z
 ---
