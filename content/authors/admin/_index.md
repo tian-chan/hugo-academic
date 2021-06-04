@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://linkedin.com/in/tian-chan
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Emory University
+    url: https://www.emory.edu/
 education:
   courses:
     - course: PhD in Technology and Operations Management
