@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: ""
+url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2428744"
 publication_types:
   - "2"
 authors:
@@ -35,7 +35,7 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: featured.jpg
 publishDate: 2018-03-01T00:00:00.000Z
 url_poster: ""
