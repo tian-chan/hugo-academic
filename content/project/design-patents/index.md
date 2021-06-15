@@ -11,7 +11,7 @@ authors:
 tags:
   - Product Design
   - Patents
-external_link: https://www.thchan.me
+external_link: ''
 image:
   filename: featured
   focal_point: Smart
