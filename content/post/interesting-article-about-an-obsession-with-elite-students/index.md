@@ -1,5 +1,5 @@
 ---
-title: Interesting article about an obsession with elite students
+title: Hiring elite students
 date: 2021-07-21T18:59:29.798Z
 draft: false
 featured: false
