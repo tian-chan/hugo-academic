@@ -45,7 +45,7 @@ I am an assistant professor of Information Systems and Operations Management @ E
 
 I am curious about how novel innovations come about. The areas I’m broadly interested in: product design, service design, teams, networks, intellectual property.
 
-Recently I work on (or am learning more about) how user-innovators generate novel product designs; how teams manage interdependencies; and how established firms reconfigure their business methods. 
+Recently I work on (or am learning more about) how user-innovators generate novel product designs; how teams manage interdependencies; and how firms reconfigure their businesses. 
 
 ### teaching
 
