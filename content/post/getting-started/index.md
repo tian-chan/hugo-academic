@@ -3,8 +3,7 @@ summary: ""
 draft: false
 authors: []
 lastmod: 2020-12-13T00:00:00.000Z
-title: Interesting section from the book "Sapiens" by Yuval Noah Harari about
-  ancient student/teacher relations
+title: 'Interesting section from the book "Sapiens" '
 subtitle: One of the earliest discovered writings was about student/teacher
   relationship...
 date: 2020-12-13T00:00:00.000Z
