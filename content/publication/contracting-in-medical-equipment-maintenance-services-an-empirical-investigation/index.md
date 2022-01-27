@@ -1,6 +1,6 @@
 ---
-title: "Contracting in Medical Equipment Maintenance Services: An Empirical
-  Investigation"
+title: "Contracting in medical equipment maintenance services: An empirical
+  investigation"
 publication_types:
   - "2"
 authors:
