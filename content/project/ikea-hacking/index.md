@@ -1,6 +1,6 @@
 ---
 title: IKEA product hacking
-date: 2022-01-27T17:03:17.196Z
+date: 2022-01-26T17:03:17.196Z
 summary: How user-innovators generate novel product functions through hacking
 draft: false
 featured: false
