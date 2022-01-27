@@ -27,7 +27,7 @@ publication: In Management Science
 featured: true
 date: 2018-03-01T00:00:00.000Z
 url_slides: ""
-title: "On Styles in Product Design: An analysis of US design patents"
+title: "On styles in product design: An analysis of US design patents"
 tags:
   - Product Design
   - Style
