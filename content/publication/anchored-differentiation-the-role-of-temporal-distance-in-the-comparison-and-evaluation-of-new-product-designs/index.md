@@ -1,6 +1,6 @@
 ---
-title: "Anchored Differentiation: The Role of Temporal Distance in the
-  Comparison and Evaluation of New Product Designs"
+title: "Anchored differentiation: The role of temporal distance in the
+  comparison and evaluation of new product designs"
 publication_types:
   - "2"
 authors:
