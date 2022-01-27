@@ -1,5 +1,5 @@
 ---
-title: Revisiting the Role of Collaboration in Creating Breakthrough Inventions
+title: Revisiting the role of collaboration in creating breakthrough inventions
 publication_types:
   - "2"
 authors:
