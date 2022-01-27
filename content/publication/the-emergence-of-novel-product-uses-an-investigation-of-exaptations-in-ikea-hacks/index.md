@@ -5,7 +5,8 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Shi-YingLim
+  - Shi-Ying Lim
+publication: accepted in Management Science
 abstract: Exaptation refers to the emergence of novel functionalities in
   existing products. Exaptations frequently arise in the context of users who
   creatively modify (or hack) existing products to accommodate new needs. Here
@@ -30,13 +31,19 @@ abstract: Exaptation refers to the emergence of novel functionalities in
   of this phenomenon for managing user innovation.
 draft: false
 featured: true
+links:
+url_pdf: "https://www.researchgate.net/publication/346530732_The_search_for_novel_product_uses_An_investigation_of_exaptations_in_IKEA_hacks"
 tags:
-  - ProductDesign
+  - Product Design
   - Problem-Solving
   - User-Innovation
 image:
   filename: null
   focal_point: Smart
   preview_only: false
+summary: "Exaptation refers to the emergence of novel functionalities in 
+  existing products. We compare how product-first (compared to problem-first) 
+  search affects the occurrence of exaptations in a dataset consisting of creative 
+  modifications (i.e., hacks) of IKEA products."
 date: 2022-01-27T12:47:45.870Z
 ---
