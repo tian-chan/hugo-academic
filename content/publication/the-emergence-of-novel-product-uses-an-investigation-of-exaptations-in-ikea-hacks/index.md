@@ -1,12 +1,4 @@
 ---
-title: "The emergence of novel product uses: An investigation of exaptations in
-  IKEA hacks"
-publication_types:
-  - "2"
-authors:
-  - admin
-  - Shi-Ying Lim
-publication: accepted in Management Science
 abstract: Exaptation refers to the emergence of novel functionalities in
   existing products. Exaptations frequently arise in the context of users who
   creatively modify (or hack) existing products to accommodate new needs. Here
@@ -30,20 +22,28 @@ abstract: Exaptation refers to the emergence of novel functionalities in
   literature on exaptation as a source of novelty and discuss the implications
   of this phenomenon for managing user innovation.
 draft: false
+url_pdf: https://www.researchgate.net/publication/346530732_The_search_for_novel_product_uses_An_investigation_of_exaptations_in_IKEA_hacks
+title: "The Emergence of Novel Product Uses: An Investigation of Exaptations in
+  IKEA Hacks"
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Shi-Ying Lim
+publication: accepted in Management Science
 featured: true
-links:
-url_pdf: "https://www.researchgate.net/publication/346530732_The_search_for_novel_product_uses_An_investigation_of_exaptations_in_IKEA_hacks"
 tags:
   - Product Design
   - Problem-Solving
   - User-Innovation
+summary: Exaptation refers to the emergence of novel functionalities in existing
+  products. We compare how product-first (compared to problem-first) search
+  affects the occurrence of exaptations in a dataset consisting of creative
+  modifications (i.e., hacks) of IKEA products.
+date: 2022-01-27T12:47:45.870Z
+links: null
 image:
   filename: null
   focal_point: Smart
   preview_only: false
-summary: "Exaptation refers to the emergence of novel functionalities in 
-  existing products. We compare how product-first (compared to problem-first) 
-  search affects the occurrence of exaptations in a dataset consisting of creative 
-  modifications (i.e., hacks) of IKEA products."
-date: 2022-01-27T12:47:45.870Z
 ---
