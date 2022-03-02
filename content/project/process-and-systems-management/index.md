@@ -15,8 +15,9 @@ Not at all inclusive. But some tools I use more often in my research:
 
 * [Roam](https://roamresearch.com/) (a web application to help take, and link, notes)
 * SQL Server (Azure if things don't run on my machine)
-* Stata / Python / Qualtrics / Matlab / tweak open-source C++ Java ... whatever solves my problem.  
-* Try to run everything in Jupyter notebooks. Let me know if there's a better way of doing things!
+* Stata / Python / Qualtrics 
+* Sometimes Matlab C++ Java if open-source codes are there for tweaking  
+* Document / run in Jupyter notebooks
 
 
 Games / apps / tools I use in my classes:
