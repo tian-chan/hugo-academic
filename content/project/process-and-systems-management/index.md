@@ -13,7 +13,7 @@ image:
 ---
 Not at all inclusive. But some tools I use more often in my research:
 
-* [Roam](https://roamresearch.com/) (a web application to help take, and link, notes)
+* [Roam](https://roamresearch.com/) (take and link notes. make sure ideas don't disappear into the ether)
 * SQL Server (Azure if things don't run on my machine)
 * Stata / Python / Qualtrics 
 * Sometimes Matlab C++ Java if open-source codes are there for tweaking  
