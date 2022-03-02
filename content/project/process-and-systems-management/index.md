@@ -1,5 +1,5 @@
 ---
-title: Process and Systems Management
+title: Tools I use
 date: 2021-05-04T18:17:19.041Z
 draft: false
 featured: false
@@ -11,17 +11,18 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I work closely with my colleagues [Wenjun Gu](https://goizueta.emory.edu/faculty/profiles/wen-gu) and [Steve Walton](https://goizueta.emory.edu/faculty/profiles/steve-walton) to deliver the undergraduate Process and Systems Management class at Emory GBS. 
+Not at all inclusive. But some tools I use more often in my research:
 
-Sharing some resources that have proved useful to me:
+* [Roam](https://roamresearch.com/) (a web application to help take, and link, notes)
+* SQL Server (Azure if things don't run on my machine)
+* Stata / Python / Qualtrics / Matlab / tweak open-source C++ Java ... whatever solves my problem.  
+* Try to run everything in Jupyter notebooks. Let me know if there's a better way of doing things!
 
-* <http://iemba.org/> - Wen's very useful website for teaching analytics online, and interactively
-* The [dreaded curve](https://academics.hamilton.edu/biology/smiller/curve.html) - a useful perspective from Professor S.A. Miller
-* A universal [grade change form](https://academics.hamilton.edu/biology/smiller/GradeChangeForm.html) - humorous, also from Professor S.A. Miller
 
-Games / apps I use in my classes:
+Games / apps / tools I use in my classes:
+
 * [Oil slick game](https://medium.com/opex-analytics/game-guide-how-to-teach-the-slick-oil-distribution-game-4c24a34e0d63) (optimization)
 * [The beer game](https://bgapp.co/) (bullwhip effect)
 * [Slido](https://www.sli.do/) (anonymous questions, use with care)
-
-
+* [Power BI](https://app.powerbi.com/groups/me/reports/73616ed2-cc9c-4322-b3e0-1acce61d3235/ReportSectiona792fb1e1be2d6c476e7) (simulation / visualization)
+* [Jaamsim](https://jaamsim.com/) (more complex simulation)
