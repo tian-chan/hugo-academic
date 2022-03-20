@@ -145,13 +145,12 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  analytics:
-    google_analytics: 'UA-64288573-4'
-    microsoft_clarity: 'b47khnr6op'
-    google_tag_manager: '' #G-5V07NSM6V3
-    google_site_verification: '' #'4R_Nd2KbnhFXIULkj4rNXKPilwNvFH0Pjqr486hQ7YI'
-    baidu_site_verification: ''
-    baidu_tongji: ''
+  google_analytics: 'UA-64288573-4'
+  microsoft_clarity: 'b47khnr6op'
+  google_tag_manager: '' #G-5V07NSM6V3
+  google_site_verification: '' #'4R_Nd2KbnhFXIULkj4rNXKPilwNvFH0Pjqr486hQ7YI'
+  baidu_site_verification: ''
+  baidu_tongji: ''
 cms:
   branch: master
   local_backend: false
