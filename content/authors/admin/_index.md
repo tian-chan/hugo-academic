@@ -49,7 +49,7 @@ Recently I work on (or am learning more about) how user-innovators generate nove
 
 ### teaching
 
-I teach the undergraduate process and systems management course (introductory operations / systems management).[](https://docs.google.com/document/d/1mS2JiAFukeNQ4Pi39pAadnfoGDJQG7TGWywthtN2Xgs/edit?usp=sharing)
+I currently teach the undergraduate systems / operations management course. [](https://docs.google.com/document/d/1mS2JiAFukeNQ4Pi39pAadnfoGDJQG7TGWywthtN2Xgs/edit?usp=sharing)
 
 ### my story
 
