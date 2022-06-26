@@ -20,7 +20,7 @@ image:
 ---
 How can we conceptualize the notion of "business methods" (which is a patentable category of innovation)? How does that relate to the idea of "business models"? Does engaging in business method innovation create value for firms, particularly those in the manufacturing and trade sectors that make and move physical products? 
 
-Difficult but fascinating problems. Here's the abstract of a working project
+Difficult but fascinating problems. The paper was accepted in June 2022 after multiple rounds of significant changes and additions (the review team's comments really helped us improve the paper).  
 
 
 ## Abstract
