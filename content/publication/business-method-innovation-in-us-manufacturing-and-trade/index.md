@@ -48,8 +48,8 @@ image:
 summary: Using text analysis of business method (BM) patents, we show that BM innovation 
   in the US manufacturing and trade sectors improves how a firm targets customers, 
   manages product delivery, or enhances the product through service offerings. We then 
-  show that BM innovation creates positive value on the average, but the value is larger 
+  show that BM innovation creates value on average, but the value is larger 
   when (1) it is engaged by trade (vs. manufacturing) firms; and (2) the firm's BM innovation
-  covers the range of customer targeting, product delivery, and service support of products.
+  covers the range of customer targeting, product delivery, and product service support.
 date: 2022-06-26T13:10:29.388Z
 ---
