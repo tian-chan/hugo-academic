@@ -1,5 +1,5 @@
 ---
-title: Business Method Innovation in US Manufacturing and Trade
+title: Business method innovation in US manufacturing and trade
 publication_types:
   - "2"
 authors:
