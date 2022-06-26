@@ -1,6 +1,6 @@
 ---
-title: Using Computer Vision to Measure Product Design Visual Similarity
-summary: We leverage on computer vision to measure the visual similarity of product design images. We then use the measure to generate management insights. 
+title: Unsupervised Computer Vision
+summary: Using Computer Vision to Measure Product Design Visual Similarity 
 date: 2022-06-26T14:20:29.965Z
 draft: false
 featured: false
