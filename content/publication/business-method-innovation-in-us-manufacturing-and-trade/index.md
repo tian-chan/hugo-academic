@@ -34,7 +34,8 @@ abstract: "In what kinds of business method innovation do firms in the
   support for the proposition that engaging in business method innovation drives
   manufacturing and trade firms’ market performance. "
 draft: false
-featured: false
+featured: true
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3275005
 tags:
   - Innovation
   - Empirical Operations
@@ -44,14 +45,11 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "Using text analysis of business method patents, we show that business
-  method innovation in the US manufacturing and trade sectors improves how a
-  firm targets customers, manages product delivery, or enhances the product
-  through service offerings. We then show that business method innovation
-  creates positive value for firms on the average, but (1) the value created for
-  trade firms (those in retail/wholesale/transport) is larger, while the value
-  for manufacturers is smaller; and (2) value is created only when the firm
-  engage in business method innovations covering the entirety of customer
-  targeting, product delivery, and service support of products. "
+summary: Using text analysis of business method (BM) patents, we show that BM innovation 
+  in the US manufacturing and trade sectors improves how a firm targets customers, 
+  manages product delivery, or enhances the product through service offerings. We then 
+  show that BM innovation creates positive value on the average, but the value is larger 
+  when (1) it is engaged by trade (vs. manufacturing) firms; and (2) the firm's BM innovation
+  covers the range of customer targeting, product delivery, and service support of products.
 date: 2022-06-26T13:10:29.388Z
 ---
