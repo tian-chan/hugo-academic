@@ -1,5 +1,5 @@
 ---
-title: Unsupervised Computer Vision
+title: Unsupervised computer vision
 summary: Using Computer Vision to Measure Product Design Visual Similarity 
 date: 2022-06-26T14:20:29.965Z
 draft: false
