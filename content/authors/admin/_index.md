@@ -45,14 +45,12 @@ I am an assistant professor of Information Systems and Operations Management @ E
 
 I am curious about how novel innovations come about. The areas I’m broadly interested in: product design, service design, teams, networks, intellectual property.
 
-Recently I work on (or am learning more about) how user-innovators generate novel product designs; how teams manage interdependencies; and how firms configure/reconfigure their business methods. 
-
 ### teaching
 
 I currently teach the undergraduate systems / operations management course. [](https://docs.google.com/document/d/1mS2JiAFukeNQ4Pi39pAadnfoGDJQG7TGWywthtN2Xgs/edit?usp=sharing)
 
 ### my story
 
-I am from Malaysia and spent many years studying and working in Singapore. I read quite a bit (fiction and non-fiction both: most recently "klara and the sun", "sapiens", “silent spring”, “genghis khan and the making of the modern world”, “the three-body problem trilogy”, “the black swan” and “antifragility”). Also travels (for food and sightseeing), and runs (never more than 5k). Before my PhD I worked for about six years @ PSA International, where I worked on port design and development (evaluating new technologies, prototyping new operations algorithms, hardware and software specification and development, streamlining human work processes, etc.)
+I am from Malaysia and spent years studying and working in Singapore. I read quite a bit (fiction and non-fiction both: most recently "klara and the sun", "sapiens", “silent spring”, “genghis khan and the making of the modern world”, “the three-body problem trilogy”, “the black swan” and “antifragility”). Before my PhD I worked for about six years @ PSA International, where I worked on port design and development (evaluating new technologies, prototyping new operations algorithms, hardware and software specification and development, streamlining human work processes, etc.)
 
 This is my [](https://docs.google.com/document/d/1mS2JiAFukeNQ4Pi39pAadnfoGDJQG7TGWywthtN2Xgs/edit?usp=sharing)[CV](https://docs.google.com/document/d/1mS2JiAFukeNQ4Pi39pAadnfoGDJQG7TGWywthtN2Xgs/edit?usp=sharing).
