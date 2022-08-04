@@ -35,7 +35,7 @@ abstract: "In what kinds of business method innovation do firms in the
   manufacturing and trade firms’ market performance. "
 draft: false
 featured: true
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3275005
+url_pdf: https://pubsonline.informs.org/doi/epdf/10.1287/msom.2022.1129
 tags:
   - Innovation
   - Empirical Operations
