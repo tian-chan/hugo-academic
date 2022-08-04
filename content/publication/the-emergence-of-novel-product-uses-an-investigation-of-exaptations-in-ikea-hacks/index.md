@@ -22,7 +22,7 @@ abstract: Exaptation refers to the emergence of novel functionalities in
   literature on exaptation as a source of novelty and discuss the implications
   of this phenomenon for managing user innovation.
 draft: false
-url_pdf: https://www.researchgate.net/publication/346530732_The_search_for_novel_product_uses_An_investigation_of_exaptations_in_IKEA_hacks
+url_pdf: https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2022.4486
 title: "The emergence of novel product uses: An investigation of exaptations in
   IKEA hacks"
 publication_types:
