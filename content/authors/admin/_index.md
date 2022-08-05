@@ -7,7 +7,7 @@ interests:
   - Product & service design
   - Generation & evaluation of novelty
   - Teams & networks
-  - Information retrieval
+  - Unsupervised/self-supervised data analytics
 social:
   - icon: envelope
     icon_pack: fas
