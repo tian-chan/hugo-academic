@@ -41,7 +41,7 @@ I am an assistant professor of Information Systems and Operations Management @ E
 
 ### research interests
 
-The areas I’m broadly interested in: product and service design, the generation and evaluation of novelty, teams and networks.
+The areas I’m interested in: product and service design, the generation and evaluation of novelty, teams and networks.
 
 ### teaching
 
