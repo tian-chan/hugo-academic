@@ -4,12 +4,10 @@ avatar_filename: avatar.jpg
 bio: Scholar researching and teaching in the areas of operations and innovation
   management.
 interests:
-  - Product Design
-  - Service Design
-  - Teams & Networks
-  - Intellectual Property
+  - Product and Service Design
+  - Generation and Evaluation of Novel Things
+  - Teams and Networks
   - Information Retrieval
-  - Data Analytics
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,7 +41,7 @@ I am an assistant professor of Information Systems and Operations Management @ E
 
 ### research interests
 
-I am curious about how novel innovations come about. The areas I’m broadly interested in: product design, service design, teams, networks, intellectual property.
+The areas I’m broadly interested in: product and service design, the generation and evaluation of novelty, teams and networks.
 
 ### teaching
 
@@ -51,6 +49,6 @@ I currently teach the undergraduate systems / operations management course. [](h
 
 ### my story
 
-I am from Malaysia and spent years studying and working in Singapore. I read quite a bit (fiction and non-fiction both: most recently "klara and the sun", "sapiens", “silent spring”, “genghis khan and the making of the modern world”, “the three-body problem trilogy”, “the black swan” and “antifragility”). Before my PhD I worked for about six years @ PSA International, where I worked on port design and development (evaluating new technologies, prototyping new operations algorithms, hardware and software specification and development, streamlining human work processes, etc.)
+I am from Malaysia and spent years studying and working in Singapore. Before my PhD I worked for about six years at PSA Corp., focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes)
 
 This is my [](https://docs.google.com/document/d/1mS2JiAFukeNQ4Pi39pAadnfoGDJQG7TGWywthtN2Xgs/edit?usp=sharing)[CV](https://docs.google.com/document/d/1mS2JiAFukeNQ4Pi39pAadnfoGDJQG7TGWywthtN2Xgs/edit?usp=sharing).
