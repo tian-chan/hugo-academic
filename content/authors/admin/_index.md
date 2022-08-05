@@ -5,10 +5,9 @@ bio: Scholar researching and teaching in the areas of operations and innovation
   management.
 interests:
   - Product and service design
-  - Generation and evaluation of novelty
-  - Teams
-  - Networks
-  - Unsupervised or self-supervised data analytics
+  - Teams and networks
+  - Human-technology interaction
+  - Unsupervised data analytics
 social:
   - icon: envelope
     icon_pack: fas
