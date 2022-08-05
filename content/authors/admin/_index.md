@@ -4,10 +4,10 @@ avatar_filename: avatar.jpg
 bio: Scholar researching and teaching in the areas of operations and innovation
   management.
 interests:
-  - Product and Service Design
-  - Generation and Evaluation of Novel Things
-  - Teams and Networks
-  - Information Retrieval
+  - Product & service design
+  - Generation & evaluation of novelty
+  - Teams & networks
+  - Information retrieval
 social:
   - icon: envelope
     icon_pack: fas
