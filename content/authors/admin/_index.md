@@ -37,7 +37,7 @@ highlight_name: false
 title: Tian Chan
 email: ""
 ---
-I am an assistant professor of Information Systems and Operations Management @ Emory University’s Goizueta Business School.
+I am an assistant professor of Information Systems and Operations Management at Emory University’s Goizueta Business School.
 
 ### research interests
 
