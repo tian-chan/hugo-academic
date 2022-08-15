@@ -6,7 +6,6 @@ bio: Scholar researching and teaching in the areas of operations and innovation
 interests:
   - Product and service design
   - Teams and networks
-  - Human-technology interaction
   - Unsupervised data analytics
 social:
   - icon: envelope
