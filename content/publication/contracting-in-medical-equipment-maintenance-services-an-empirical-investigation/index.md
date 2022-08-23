@@ -30,7 +30,7 @@ featured: true
 links:
 - name: Paper
   url: https://pubsonline.informs.org/doi/10.1287/mnsc.2017.2993
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2494265
+url_pdf: https://www.researchgate.net/publication/292131209_Contracting_in_Medical_Equipment_Maintenance_Services_An_Empirical_Investigation
 url_code: ''
 url_dataset: ''
 url_poster: ''
