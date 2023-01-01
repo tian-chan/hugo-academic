@@ -5,6 +5,7 @@ title: When do teams generate valuable inventions? The moderating role of
 publication_types:
   - "2"
 authors:
+  - admin
   - Haibo Liu
   - Steffen Keck
   - Wenjie Tang
