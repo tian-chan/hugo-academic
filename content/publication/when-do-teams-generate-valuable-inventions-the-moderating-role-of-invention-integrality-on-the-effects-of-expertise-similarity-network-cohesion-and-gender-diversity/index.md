@@ -12,16 +12,13 @@ authors:
 publication: accepted in Production and Operations Management
 abstract: "Research has demonstrated that certain team composition factors—high
   expertise similarity, high network cohesion, and mixed-gender teams—have
-  predominantly negative effects on the teams’ invention outcomes. Yet these
-  factors have also been shown to improve team coordination, which should (in
-  theory) lead to better invention outcomes. We address this tension by
-  highlighting the need to consider the invention’s integrality, which increases
+  predominantly negative effects on the teams’ invention outcomes. We
+  highlight how these effects depend on an invention’s integrality, which increases
   task interdependencies among team members and thereby strengthens the positive
-  relationship between team coordination and invention value. We hypothesize
+  relationship between team coordination and invention value. We show
   that (i) the main effects of these team composition factors reduce a team’s
   invention value but, more importantly, that (ii) invention integrality
-  positively moderates those effects. We support these claims with evidence from
-  utility patent data filed in the United States during the period 1983–2015. "
+  positively moderates those effects."
 draft: false
 featured: true
 tags:
@@ -29,6 +26,7 @@ tags:
   - Problem-Solving
   - Coordination
   - Modularity
+  - Patents
 image:
   filename: null
   focal_point: Smart
