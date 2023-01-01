@@ -9,7 +9,7 @@ authors:
   - Haibo Liu
   - Steffen Keck
   - Wenjie Tang
-publication: Production and Operations Management
+publication: accepted in Production and Operations Management
 abstract: "Research has demonstrated that certain team composition factors—high
   expertise similarity, high network cohesion, and mixed-gender teams—have
   predominantly negative effects on the teams’ invention outcomes. Yet these
@@ -23,9 +23,14 @@ abstract: "Research has demonstrated that certain team composition factors—hig
   positively moderates those effects. We support these claims with evidence from
   utility patent data filed in the United States during the period 1983–2015. "
 draft: false
-featured: false
+featured: true
+tags:
+  - Team
+  - Problem-Solving
+  - Coordination
+  - Modularity
 image:
-  filename: featured
+  filename: null
   focal_point: Smart
   preview_only: false
 date: 2023-01-01T18:27:30.006Z
