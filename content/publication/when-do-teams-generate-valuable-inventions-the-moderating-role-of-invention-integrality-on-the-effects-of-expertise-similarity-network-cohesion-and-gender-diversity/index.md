@@ -1,7 +1,7 @@
 ---
 title: When do teams generate valuable inventions?
-subtitle: The moderating role of invention integrality on the effects of expertise similarity, network
-  cohesion, and gender diversity.
+subtitle: The moderating role of invention integrality on the effects of
+  expertise similarity, network cohesion, and gender diversity.
 publication_types:
   - "2"
 authors:
