@@ -1,5 +1,6 @@
 ---
-title: When do teams generate valuable inventions? The moderating role of
+title: When do teams generate valuable inventions?
+subtitle: When do teams generate valuable inventions? The moderating role of
   invention integrality on the effects of expertise similarity, network
   cohesion, and gender diversity.
 publication_types:
