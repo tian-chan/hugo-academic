@@ -6,6 +6,8 @@ publication_types:
   - "2"
 authors:
   - Haibo Liu
+  - Steffen Keck
+  - Wenjie Tang
 publication: Production and Operations Management
 abstract: "Research has demonstrated that certain team composition factors—high
   expertise similarity, high network cohesion, and mixed-gender teams—have
