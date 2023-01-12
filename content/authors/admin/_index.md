@@ -43,5 +43,3 @@ Product and service design, the generation and evaluation of novelty, teams and 
 ### my story
 
 I am from Malaysia and spent years studying and working in Singapore. Before my PhD I worked for about six years at PSA Corp., focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes, prototyping algorithms, operational due diligence).
-
-This is my [](https://docs.google.com/document/d/1mS2JiAFukeNQ4Pi39pAadnfoGDJQG7TGWywthtN2Xgs/edit?usp=sharing)[CV](https://docs.google.com/document/d/1mS2JiAFukeNQ4Pi39pAadnfoGDJQG7TGWywthtN2Xgs/edit?usp=sharing).
