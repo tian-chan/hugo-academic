@@ -21,10 +21,10 @@ abstract: "Research has demonstrated that certain team composition factors—hig
   positively moderates those effects."
 draft: false
 featured: true
-url_pdf: https://www.researchgate.net/publication/366898056_When_do_teams_generate_valuable_inventions_The_moderating_role_of_invention_integrality_on_the_effects_of_expertise_similarity_network_cohesion_and_gender_diversitylinks:
+links:
 - name: Paper
   url: https://onlinelibrary.wiley.com/doi/10.1111/poms.13939
-
+url_pdf: https://www.researchgate.net/publication/366898056_When_do_teams_generate_valuable_inventions_The_moderating_role_of_invention_integrality_on_the_effects_of_expertise_similarity_network_cohesion_and_gender_diversity
 
 tags:
   - Team
