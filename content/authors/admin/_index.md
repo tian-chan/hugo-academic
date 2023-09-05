@@ -1,5 +1,5 @@
 ---
-role: Assistant Professor (Information Systems and Operations Management)
+role: Associate Professor (Information Systems and Operations Management)
 avatar_filename: avatar.jpg
 bio: Scholar researching and teaching in the areas of operations and innovation
   management.
