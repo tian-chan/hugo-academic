@@ -46,8 +46,16 @@ experience:
     # company_logo: org-x
     location: Atlanta
     date_start: '2016-08-01'
+    date_end: '2023-08-31'
+    
+  - title: Assistant Professor of Information Systems / Operations Management
+    company: Emory University
+    company_url: 'https://emory.edu'
+    # company_logo: org-x
+    location: Atlanta
+    date_start: '2023-09-01'
     date_end: ''
-    description: Research and teaching on operations / innovation management. 
+    description: Research and teaching on operations / innovation management.
 
 design:
   columns: '2'
