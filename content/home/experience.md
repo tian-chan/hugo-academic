@@ -48,7 +48,7 @@ experience:
     date_start: '2016-08-01'
     date_end: '2023-08-31'
     
-  - title: Assistant Professor of Information Systems / Operations Management
+  - title: Associate Professor of Information Systems / Operations Management
     company: Emory University
     company_url: 'https://emory.edu'
     # company_logo: org-x
