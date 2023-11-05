@@ -7,6 +7,7 @@ interests:
   - Product and service design
   - Teams and networks
   - Unsupervised data analytics
+  - Project management
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,7 +39,7 @@ email: ""
 ---
 ### research interests
 
-Product and service design, the generation and evaluation of novelty, teams and networks.
+Product and service design, group dynamics, networks, different types and sources of novelty. 
 
 ### my story
 
