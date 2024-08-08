@@ -12,7 +12,7 @@ design:
   font_size_min: 0.7
   font_size_max: 2
   background:
-    image: tian_heong_chan_research_contributions_network_optimized.svg
+    image: ""
     text_color_light: true
   columns: "2"
 ---
