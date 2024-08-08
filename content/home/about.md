@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: research interests
+widget_id: bio
 headless: true
 weight: 20
 title: Biography
