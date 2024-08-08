@@ -16,4 +16,7 @@ content:
 widget_id: Publications
 design:
   view: 3
+  background:
+    image: tian_heong_chan_research_contributions_network_optimized.svg
+    image_darken: 1
 ---
