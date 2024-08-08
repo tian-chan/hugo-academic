@@ -43,4 +43,4 @@ I study how individuals and teams develop new products and services. Here is an 
 
 ### my story
 
-Before my PhD I worked for about six years at PSA Corp. (the Singapore-based company), focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes, prototyping algorithms, operational due diligence). Had fun but wanted to understand why new product development / project management is so difficult. So the PhD. Now I research and teach on these topics, focusing on both generation and implementation of ideas.
+Before my PhD I worked for about six years at PSA Corp. (the Singapore-based company), focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes, prototyping algorithms, operational due diligence). Had fun but wanted to understand why new product development / project management is so difficult. So the PhD. Now I research and teach on these topics, focusing on the process going from ideas to product.
