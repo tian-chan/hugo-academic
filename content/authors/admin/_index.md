@@ -39,8 +39,8 @@ email: ""
 ---
 ### research interests
 
-Product and service design, group dynamics, networks, different types and sources of novelty. 
+I study how individuals and teams develop new products and services. 
 
 ### my story
 
-I am from Malaysia and spent years studying and working in Singapore. Before my PhD I worked for about six years at PSA Corp., focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes, prototyping algorithms, operational due diligence).
+Before my PhD I worked for about six years at PSA Corp. (the Singapore-based company), focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes, prototyping algorithms, operational due diligence). Had fun but wanted to understand why new product development / project management is so difficult. So the PhD. 
