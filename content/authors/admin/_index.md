@@ -39,7 +39,7 @@ email: ""
 ---
 ### research interests
 
-I study how individuals and teams develop new products and services. Here is an [image](https://drive.google.com/file/d/1uXkHKDYXIsU2K_q5oZw03F5ztMduxPoR/view?usp=sharing) showing the various topics I work on and how they are linked.  
+I study how individuals and teams develop new products and services. Here is an [image](https://drive.google.com/file/d/1JCD7AAdToL92bflvZylu9ygv1Qs0fXVZ/view) showing the various topics I work on and how they are linked.  
 
 ### my story
 
