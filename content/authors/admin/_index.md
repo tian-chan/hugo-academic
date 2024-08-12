@@ -39,7 +39,7 @@ email: ""
 ---
 ### research interests
 
-I study how individuals and teams develop new products and services. Here are the more detailed topics I work on and how they are linked.  
+I study how individuals and teams develop new products and services. Here are the topics I am working on and how they are linked.  
 
 ![](uploads/Tian_Heong_Chan_Research_Topic_Network_Updated_Optimized_Shortened.svg)
 
