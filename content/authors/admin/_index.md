@@ -39,8 +39,10 @@ email: ""
 ---
 ### research interests
 
-I study how individuals and teams develop new products and services. Here is an [image](https://drive.google.com/file/d/1JCD7AAdToL92bflvZylu9ygv1Qs0fXVZ/view) showing the various topics I work on and how they are linked.  
-<iframe src="https://drive.google.com/file/d/1JCD7AAdToL92bflvZylu9ygv1Qs0fXVZ/preview" width="640" height="480" allow="autoplay"></iframe>
+I study how individuals and teams develop new products and services. Here is an image showing the various topics I work on and how they are linked.  
+
+<iframe src="https://drive.google.com/file/d/1JCD7AAdToL92bflvZylu9ygv1Qs0fXVZ/preview" width="768" height="576" allow="autoplay"></iframe>
+
 ### my story
 
 Before my PhD I worked for about six years at PSA Corp. (the Singapore-based company), focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes, prototyping algorithms, operational due diligence). Had fun but wanted to understand why new product development / project management is so difficult. So the PhD. Now I research and teach on these topics, focusing on the process going from ideas to product.
