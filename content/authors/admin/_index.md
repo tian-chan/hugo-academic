@@ -41,7 +41,7 @@ email: ""
 
 I study how individuals and teams develop new products and services. Here is an image showing the various topics I work on and how they are linked.  
 
-<iframe src="https://drive.google.com/file/d/1JCD7AAdToL92bflvZylu9ygv1Qs0fXVZ/preview" width="768" height="576" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1JCD7AAdToL92bflvZylu9ygv1Qs0fXVZ/preview" width="832" height="624" allow="autoplay"></iframe>
 
 ### my story
 
