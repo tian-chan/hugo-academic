@@ -7,7 +7,7 @@ interests:
   - Product and service design
   - Teams and networks
   - Unsupervised data analytics
-  - Project management
+  - Project management [syllabus](https://www.dropbox.com/scl/fi/7ief5r2mcjan088xvnwmp/ISOM-499R-Fall-25.pdf?rlkey=gdsa31oss5v1l2cegj6zgvbqb&e=1&dl=0)
 social:
   - icon: envelope
     icon_pack: fas
