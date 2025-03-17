@@ -7,7 +7,7 @@ interests:
   - Product and service design
   - Teams and networks
   - Unsupervised data analytics
-  - [Project management](https://qr.link/DkZbnW)
+  - Project management
 social:
   - icon: envelope
     icon_pack: fas
