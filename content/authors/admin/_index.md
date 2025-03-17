@@ -7,7 +7,7 @@ interests:
   - Product and service design
   - Teams and networks
   - Unsupervised data analytics
-  - Project management
+  - [Project management](https://qr.link/DkZbnW)
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,7 +39,7 @@ email: ""
 ---
 ### research interests
 
-Here are the topics I am working on and how they are linked.  
+Here are the topics I am working on and how they are linked. Key research theme: effects of people working together in different sorts of work (collaborative design, customer-supplier co-production, collective action). 
 
 ![](uploads/Tian_Heong_Chan_Research_Topic_Network_Updated_Optimized_Shortened.svg)
 
