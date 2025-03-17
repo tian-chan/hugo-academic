@@ -4,10 +4,10 @@ avatar_filename: avatar.jpg
 bio: Scholar researching and teaching in the areas of operations and innovation
   management.
 interests:
-  - Product and service design
   - Teams and networks
-  - Unsupervised data analytics
+  - Product and service design
   - Project management
+  - Unsupervised data analytics
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,10 +39,10 @@ email: ""
 ---
 ### research interests
 
-Here are the topics I am working on and how they are linked. Key research theme: effects of people working together to do different sorts of work (collaborative design, project evaluation, customer-supplier co-production, collective action). 
+Here are the topics I am working on and how they are linked. Key research theme: effects of people coming together to do different sorts of work (collaborative design, project evaluation, customer-supplier co-production, collective action). 
 
 ![](uploads/Tian_Heong_Chan_Research_Topic_Network_Updated_Optimized_Shortened.svg)
 
 ### my story
 
-Before my PhD I worked for about six years at PSA Corp. (the Singapore-based company), focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes, prototyping algorithms, operational due diligence). The experience helped me see many pitfalls to new product development / project management. Now I research and teach on these topics, focusing on the process going from ideas to product.
+Before my PhD I worked for about six years at PSA Singapore, focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes, prototyping algorithms, operational due diligence). The experience helped me see many pitfalls to new product development / project management. Now I research and teach on these topics, focusing on the people and process going from ideas to product.
