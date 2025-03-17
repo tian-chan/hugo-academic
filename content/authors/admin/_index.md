@@ -7,7 +7,7 @@ interests:
   - Product and service design
   - Teams and networks
   - Unsupervised data analytics
-  - Project management [syllabus](https://www.dropbox.com/scl/fi/7ief5r2mcjan088xvnwmp/ISOM-499R-Fall-25.pdf?rlkey=gdsa31oss5v1l2cegj6zgvbqb&e=1&dl=0)
+  - Project management
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,10 +39,10 @@ email: ""
 ---
 ### research interests
 
-I study how individuals and teams develop new products and services. Here are the topics I am working on and how they are linked.  
+Here are the topics I am working on and how they are linked.  
 
 ![](uploads/Tian_Heong_Chan_Research_Topic_Network_Updated_Optimized_Shortened.svg)
 
 ### my story
 
-Before my PhD I worked for about six years at PSA Corp. (the Singapore-based company), focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes, prototyping algorithms, operational due diligence). Had fun but wanted to understand why new product development / project management is so difficult. So the PhD. Now I research and teach on these topics, focusing on the process going from ideas to product.
+Before my PhD I worked for about six years at PSA Corp. (the Singapore-based company), focusing on service design in a container port (e.g., hardware and software evaluation/specification, integration of technology to human work processes, prototyping algorithms, operational due diligence). The experience helped me see many pitfalls to new product development / project management. Now I research and teach on these topics, focusing on the process going from ideas to product.
