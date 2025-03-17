@@ -39,7 +39,7 @@ email: ""
 ---
 ### research interests
 
-Here are the topics I am working on and how they are linked. Key research theme: effects of people coming together to do different sorts of work (collaborative design, project evaluation, customer-supplier co-production, collective action). 
+Here are the topics I am working on and how they are linked. Key research theme: effects of different people coming together to do different sorts of work (collaborative design, complex problem-solving, customer-supplier co-production, collective action...). 
 
 ![](uploads/Tian_Heong_Chan_Research_Topic_Network_Updated_Optimized_Shortened.svg)
 
